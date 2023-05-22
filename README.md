@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Bhagchandani</h1>
 <h3 align="center">Graduate Student at University of Southern California</h3>
-<h5 align="center">- Master of Science, Computer Science</h5>
 
 - 💭 I'm interested in Software Development and Machine learning.
 
@@ -10,7 +9,6 @@
 - 📄 Know about my experiences
   <a href="https://drive.google.com/file/d/1tga2RrW8_xpswlLLqK97XhPcv2CQMUFa/view" target="blank"><img align="center" src="https://raw.githubusercontent.com/ashishbhagchandani/svgs/main/share.svg" alt="ashish_2498" height="20" width="30" /></a>
 
-<br/>
 <h3>Connect with me:</h3>
 <p>
 <a href="https://twitter.com/ashish_2498" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashish_2498" height="30" width="40" /></a>
