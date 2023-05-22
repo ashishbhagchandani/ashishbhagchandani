@@ -37,11 +37,11 @@
 </table>
 <br/>
  <table border = "0">
-    <td width="50%" align="center">
+    <td border = "0" width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishbhagchandani&show_icons=true&theme=tokyonight" alt="ashishbhagchandani" />
     </td>
     
-   <td width="50%" align="center">  
+   <td border = "0" width="50%" align="center">  
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbhagchandani&theme=tokyonight" />
     </td>
 </table>
