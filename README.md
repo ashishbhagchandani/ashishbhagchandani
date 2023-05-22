@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm Ashish Bhagchandani</h1>
 <h3 align="center">Graduate Student at University of Southern California</h3>
 
@@ -36,12 +30,12 @@ td, th {
       </tr>
 </table>
 <br/>
- <table border = "0">
-    <td width="50%" align="center">
+ <table style="border-collapse: collapse;">
+    <td style="border: none;" width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishbhagchandani&show_icons=true&theme=tokyonight" alt="ashishbhagchandani" />
     </td>
     
-   <td width="50%" align="center">  
+   <td style="border: none;" width="50%" align="center">  
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbhagchandani&theme=tokyonight" />
     </td>
     </tr>
