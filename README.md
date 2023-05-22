@@ -17,7 +17,7 @@
 <a href="mailto: ashishbhagchandani2498@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ashishbhagchandani/svgs/main/mail.svg" alt="@ashishbhagchandani" height="40" width="50" /></a>
 </p>
 <br/>
-<!--  <table border = "0">
+ <table border = "0">
   <tr>
     <td width="50%">
     <h3 align="left">Languages and Tools:</h3>
@@ -29,8 +29,8 @@
      </td>
       </tr>
 </table>
-<br/> -->
-<!--  <table style="border-collapse: collapse;">
+<br/>
+ <table style="border-collapse: collapse;">
     <td style="border: none;" width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishbhagchandani&show_icons=true&theme=tokyonight" alt="ashishbhagchandani" />
     </td>
@@ -39,5 +39,5 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbhagchandani&theme=tokyonight" />
     </td>
     </tr>
-</table> -->
+</table>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbhagchandani&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbhagchandani" /> </p> -->
