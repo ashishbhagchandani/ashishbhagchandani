@@ -16,7 +16,7 @@
 <a href="https://instagram.com/ashishbhagchandani_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishbhagchandani_" height="30" width="40" /></a>
 <a href="mailto: ashishbhagchandani2498@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ashishbhagchandani/svgs/main/mail.svg" alt="@ashishbhagchandani" height="40" width="50" /></a>
 </p>
-<br/>
+<!-- <br/>
  <table border = "0">
   <tr>
     <td width="50%">
@@ -39,5 +39,5 @@
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishbhagchandani&theme=tokyonight" />
     </td>
     </tr>
-</table>
+</table> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishbhagchandani&label=Profile%20views&color=0e75b6&style=flat" alt="ashishbhagchandani" /> </p> -->
