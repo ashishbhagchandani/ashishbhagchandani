@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Ashish Bhagchandani</h1>
 <h3 align="center">Graduate Student at University of Southern California</h3>
 
