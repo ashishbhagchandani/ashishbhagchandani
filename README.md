@@ -7,7 +7,7 @@
   <a href="https://ashishbhagchandani.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ashishbhagchandani/svgs/main/share.svg" alt="ashish_2498" height="20" width="30" /></a>
 
 - 📄 Know about my experiences
-  <a href="https://drive.google.com/file/d/1tga2RrW8_xpswlLLqK97XhPcv2CQMUFa/view" target="blank"><img align="center" src="https://raw.githubusercontent.com/ashishbhagchandani/svgs/main/share.svg" alt="ashish_2498" height="20" width="30" /></a>
+  <a href="https://drive.google.com/file/d/1vtUQ_ut4Hsdlp2Hf01w91g-TjdzcUVqm/view?usp=share_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/ashishbhagchandani/svgs/main/share.svg" alt="ashish_2498" height="20" width="30" /></a>
 
 <h3>Connect with me:</h3>
 <p>
